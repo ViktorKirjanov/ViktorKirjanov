@@ -45,19 +45,19 @@
 <h3 align="left">🔥  GitHub Stats:</h3>
 <p>
     <a href="https://github.com/ViktorKirjanov">
-        <img width="500" alt="GitHub profile" src="https://github-readme-stats.vercel.app/api?username=ViktorKirjanov&theme=merko&show_icons=true&count_private=true&hide_border=false&border_radius=20" />
+        <img width="500" alt="GitHub profile" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ViktorKirjanov&theme=onedark&show_icons=true&count_private=true&hide_border=false&border_radius=5" />
     </a>
 </p>
 
 <p>
     <a href="https://github.com/ViktorKirjanov">
-        <img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=viktorkirjanov&show_icons=true&theme=merko&locale=en&layout=compact&border_radius=10" alt="viktorkirjanov" />
+        <img align="center" width="500" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=viktorkirjanov&show_icons=true&theme=onedark&locale=en&layout=compact&border_radius=5" alt="viktorkirjanov" />
     </a>
 </p>
 
 <p>
     <a href="https://github.com/ViktorKirjanov">
-        <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=viktorkirjanov&theme=merko&border_radius=20" alt="viktorkirjanov" />
+        <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=viktorkirjanov&theme=onedark&border_radius=5" alt="viktorkirjanov" />
     </a>
 </p>
 
