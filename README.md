@@ -1,5 +1,5 @@
 <h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Viktor Kirjanov</h3>
-<h3 align="center">A passionate Flutter developer from Estonia</h3>
+<h3 align="center">A passionate Flutter developer</h3>
 
 ---
 <h3 align="center">📫 Connect with me:</h3>
