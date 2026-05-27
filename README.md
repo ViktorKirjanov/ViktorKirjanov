@@ -1,7 +1,24 @@
 <h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Viktor Kirjanov</h3>
-<h3 align="center">A passionate Flutter developer</h3>
+<h3 align="center">Senior Flutter Developer | FinTech & Mobile Apps</h3>
+
+<p align="center">
+  Senior Flutter Developer with a strong FinTech background, specializing in high-performance, scalable cross-platform mobile applications.
+</p>
+
+
+- **Flutter & Dart** — Cross-platform apps with responsive and dynamic UI/UX
+- **State Management** — BLoC, Provider, Riverpod, Redux
+- **Backend & APIs** — Firebase (Firestore, Auth, Cloud Functions, Realtime DB), Supabase, REST APIs
+- **Architecture** — Clean Architecture, BLoC pattern, modular & testable codebases
+- **Payments** — Stripe, PayPal, Square; In-App Purchases
+- **Testing** — Unit, widget, and integration tests
+- **Performance** — App size reduction, load time optimization, memory management
+- **Other** — Git, localization, local databases, UI/UX implementation
 
 ---
+
+### 📫 Contact
+
 <h3 align="center">📫 Connect with me:</h3>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/viktor-kirjanov/">
