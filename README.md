@@ -15,9 +15,6 @@
 - **Performance** — App size reduction, load time optimization, memory management
 - **Other** — Git, localization, local databases, UI/UX implementation
 
----
-
-### 📫 Contact
 
 <h3 align="center">📫 Connect with me:</h3>
 <div id="badges" align="center">
